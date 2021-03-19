@@ -1,6 +1,6 @@
 # ll - lawtexts listing
 
-## Warning:
+### Warning:
 Unstable stuff, work in progress. Don't use if you don't know what you do !
 
 ### What is ll ?
